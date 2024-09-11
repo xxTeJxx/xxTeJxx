@@ -41,7 +41,7 @@
 # My Contribution Timeline:
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=xxTeJxx&bg_color=161b22&color=ffffff&line=d5d5d5&point=a76c6c&area=true&hide_border=true&hide_title=true" />
 
-| ![Tejas Shivaprasad github stats](https://github-readme-stats.vercel.app/api?username=xxTeJxx\&rank_icon=percentile&show_icons=true&theme=tokyonight&show=reviews&bg_color=fff&title_color=0a1931&icon_color=0a1931&text_color=0A0209&border_color=0A0209&border_radius=8) | ![Tejas Shivaprasad GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=xxTeJxx&theme=tokyonight&theme=icegray&border_radius=8) |
+| ![Tejas' GitHub stats](https://github-readme-stats.vercel.app/api?username=xxTeJxx&show_icons=true&theme=dark) | ![Tejas Shivaprasad GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=xxTeJxx&theme=tokyonight&theme=dark&border_radius=8) |
 | -- | -- |
 
 
