@@ -13,7 +13,7 @@
   <a href="https://www.linkedin.com/in/tejas-shivaprasad-a216a427a/?trk=opento_sprofile_pfeditor"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209" alt="profile of LinkedIn with username Tejas" /></a>
   <a href="mailto:hi@tejas.shivaprasad29@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" alt="email of tejas i.e.   tejas.shivaprasasd29@gmail.com" /></a>
     <a href="https://discordapp.com/users/503485755386232854"><img src="https://img.shields.io/badge/Discord-d5d5d5?style=for-the-badge&logo=discord&logoColor=0A0209" alt="profile of Discord with username xxxTeJxxx" ></a>
-  <a href="https://drive.google.com/file/d/1xK8W9cPrCvmMYW9L5zj4kFF1WCCzRL8r/view?usp=sharing">
+  <a href="https://drive.google.com/file/d/1Q1ZVtFG6N_tI0pB77hXm9ciWgJeHwq0-/view?usp=sharing">
   <img src="https://img.shields.io/badge/Resume-%23FF5722.svg?style=for-the-badge&logo=disco&logoColor=0A0209" alt="Resume" />
 </a>
 
