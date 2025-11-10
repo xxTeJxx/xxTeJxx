@@ -1,6 +1,6 @@
 <h1 align="center">Hello &nbsp;<a href="https://avipatilweb.ml/"><img src="https://github.com/KenanGain/KenanGain/blob/main/icons/wave.gif" width="48"></a> , I'm Tejas Shivaprasad</h1>
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=EBEDF2&center=true&vCenter=true&width=450&lines=Computer+Science+Engineer;Cyber+Security+Enthusiast;AI+-+ML+Engineer;Editor;" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=EBEDF2&center=true&vCenter=true&width=450&lines=Computer+Science+Engineer;Cyber+Security+Enthusiast;Software+Development+Engineer;Editor;" alt="Typing SVG" />
   <p align="center">
 <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FxxTeJxx%2FxxTejxx&label=VISITORS&labelColor=%23000&countColor=%230A0209" /></p>
 
